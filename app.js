@@ -1,4 +1,3 @@
-// Attach a scroll event listener to the window
 window.onscroll = function() {
   myFunction(); // Call the myFunction when scrolling occurs
 };
