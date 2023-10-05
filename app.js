@@ -1,5 +1,5 @@
 window.onscroll = function() {
-  myFunction(); // Call the myFunction when scrolling occurs
+  myFunction(); 
 };
 
 // Get a reference to the HTML element with the id "navbar"
